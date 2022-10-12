@@ -1,4 +1,4 @@
-package pl.markowski.konrad.codewars.com.kata.ku7;
+package pl.markowski.konrad.codewars.com.kata.kyu7;
 
 import java.util.Locale;
 
