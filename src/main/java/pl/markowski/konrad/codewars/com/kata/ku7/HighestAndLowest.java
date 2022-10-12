@@ -1,11 +1,11 @@
-package highestAndLowest;
+package pl.markowski.konrad.codewars.com.kata.ku7;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public interface HighestAndLowest {
+public class HighestAndLowest {
     /*
     In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
 

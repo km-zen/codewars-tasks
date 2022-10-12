@@ -1,4 +1,4 @@
-package sentenceSmash;
+package pl.markowski.konrad.codewars.com.kata.ku7;
 
 public class SentenceSmash {
 

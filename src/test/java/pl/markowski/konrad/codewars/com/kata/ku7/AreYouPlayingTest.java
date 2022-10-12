@@ -1,9 +1,8 @@
-package Banjo;
+package pl.markowski.konrad.codewars.com.kata.ku7;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
+import pl.markowski.konrad.codewars.com.kata.ku7.AreYouPlaying;
 
 class AreYouPlayingTest {
 

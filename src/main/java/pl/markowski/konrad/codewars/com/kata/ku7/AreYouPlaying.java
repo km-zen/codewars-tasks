@@ -1,8 +1,8 @@
-package Banjo;
+package pl.markowski.konrad.codewars.com.kata.ku7;
 
 import java.util.Locale;
 
-public interface AreYouPlaying {
+public class AreYouPlaying {
 
     // moja wersja
     static String validate(String name){
