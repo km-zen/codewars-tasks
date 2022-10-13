@@ -1,13 +1,12 @@
 package pl.markowski.konrad.codewars.com.kata.kyu6;
 
-import java.util.Arrays;
-import java.util.Comparator;
+
 import java.util.HashMap;
 
 
 public class YourOrderPlease {
 // moja wersja
-    public static String order(String words){
+    public String order(String words){
 
         String [] splitedWords = words.split(" ");
         if(splitedWords.length == 1)

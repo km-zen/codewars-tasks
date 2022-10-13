@@ -17,7 +17,7 @@ class SortTheOddTest {
         Assertions.assertArrayEquals(new int[]{1, 8, 3, 6, 5, 4, 7, 2, 9, 0}, sortTheOdd.sortArray(arr));
 
 
-        // second solution (Best Practise and clever
-        Assertions.assertArrayEquals(new int[]{1, 8, 3, 6, 5, 4, 7, 2, 9, 0}, SortTheOdd.sort2(arr));
+//        // second solution (Best Practise and clever
+//        Assertions.assertArrayEquals(new int[]{1, 8, 3, 6, 5, 4, 7, 2, 9, 0}, SortTheOdd.sort2(arr));
     }
 }
